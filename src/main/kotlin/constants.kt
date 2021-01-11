@@ -1,0 +1,5 @@
+const val DATAGRAM_SOCKET_PORT: Int = 8181
+
+const val DATAGRAM_SOCKET_REQUEST: String = "SCAN_HC"
+
+const val DATAGRAM_BROADCAST_ADDR: String = "255.255.255.255"
